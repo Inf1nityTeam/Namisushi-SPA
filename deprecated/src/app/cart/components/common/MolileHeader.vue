@@ -1,7 +1,7 @@
 <template>
   <div class="mobile-header">
-    <img @click="$store.commit('hideCart')" class="back" src="./images/arrow-circle.svg" alt="">
-    <img class="logo" src="./images/logo.png" alt="">
+    <img @click="$store.commit('hideCart')" class="back" src="images/arrow-circle.svg" alt="">
+    <img class="logo" src="images/logo.png" alt="">
   </div>
 </template>
 

@@ -11,7 +11,7 @@
             <i class="el-icon-close"></i>
           </div>
 
-          <img class="header-collapse__content--header-img" src="./images/img-burger-menu.png" alt="">
+          <img class="header-collapse__content--header-img" src="images/img-burger-menu.png" alt="">
 
           <div class="header-collapse__content-menu">
             <router-link

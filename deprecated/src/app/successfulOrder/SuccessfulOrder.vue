@@ -45,7 +45,7 @@ export default {
   height: calc(100vh - 88px);
   min-height: 500px;
 
-  background-image: url(./bg.png);
+  background-image: url(bg.png);
 
   @media screen and (max-width: 1000px) {
     background-size: auto 100%;

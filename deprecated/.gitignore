@@ -1,6 +1,5 @@
 .DS_Store
-namisushi-spa/node_modules
-node_modules
+../node_modules
 /dist
 
 

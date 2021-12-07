@@ -39,7 +39,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import 'src/assets/scss/variables';
+@import 'deprecated/src../../assets/scss/variables';
 
 .auth-card__form-item {
   position: relative;

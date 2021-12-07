@@ -1,4 +1,4 @@
-# namisushi-spa
+# namisushi
 
 ## Project setup
 ```

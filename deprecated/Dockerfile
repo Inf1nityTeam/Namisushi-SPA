@@ -2,7 +2,7 @@ FROM node:14 as build-stage
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
-COPY ./ .
+COPY .. .
 RUN npm run build
 
 FROM nginx as production-stage
